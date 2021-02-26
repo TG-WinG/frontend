@@ -9,7 +9,7 @@
 Github: [18 이정민](https://github.com/danmin20)
 - **자기소개**
   - 현 Naver <sub><sup>예약플랫폼팀</sup></sub> FE 개발 인턴
-  - 전 MegazoneCloud <sub><sup>CTC부서 SpaceONE팀</sup></sub> FE 개발 인턴
+  - 전 MegazoneCloud <sub><sup>CTC부서 CloudOne팀</sup></sub> FE 개발 인턴
   - 전 TwentyOZ FE 개발 인턴
 - **스터디 계획**
   - `Javascript, Typescript, CSS, HTML`에 관한 전반적인 지식을 알려드릴 예정입니다.
