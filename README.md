@@ -36,3 +36,13 @@ Github: [16 신승민](https://github.com/sky21kr)
   - [ClassManager_React](https://github.com/sky21kr/ClassManager_React)
 + 구성원
   - [16 신승민](https://github.com/sky21kr)
+
+
+### Community
+
++ 프로젝트 링크
+  - [Community](https://github.com/Ojimin/Community)
++ 구성원
+  - [20 오지민](https://github.com/Ojimin)
+
+
