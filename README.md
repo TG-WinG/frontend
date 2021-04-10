@@ -27,3 +27,12 @@ Github: [16 신승민](https://github.com/sky21kr)
   - `html, css, js, vue` 등 프론트엔드 기초 지식을 알려드리겠습니다.
   - 편하게 질문해주세요. 모르면 찾아서라도 알려드리겠습니다.
   - 같이 웹 공부를 해 보아요~ 무야호~ 그만큼 재미있다는거지~
+
+## 프로젝트
+
+### Class Manager
+
++ 프로젝트 링크
+  - [ClassManager_React](https://github.com/sky21kr/ClassManager_React)
++ 구성원
+  - [16 신승민](https://github.com/sky21kr)
