@@ -45,4 +45,11 @@ Github: [16 신승민](https://github.com/sky21kr)
 + 구성원
   - [20 오지민](https://github.com/Ojimin)
 
+### Coin
 
++ 프로젝트 링크
+  - [Coin](https://github.com/Sunny-jinn/tg_study)
++ 구성원
+  - [18 김진우](https://github.com/Sunny-jinn)
+  - [18 이세진](https://github.com/lsj8706)
+  - [18 최우성](https://github.com/woosung1223)
